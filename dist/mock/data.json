@@ -1,0 +1,34 @@
+[
+    {
+        "image":"/source/img/1.jpg",
+        "audio":"/source/music/1.mp3",
+        "song":"起风了",
+        "album":"起风了 cover ",
+        "singer":"买辣椒也用券",
+        "islike":true
+    },
+    {
+        "image":"/source/img/2.jpg",
+        "audio":"/source/music/2.mp3",
+        "song":"岁月神偷",
+        "album":"时光",
+        "singer":"金玟岐",
+        "islike":false
+    },
+    {
+        "image":"/source/img/3.jpg",
+        "audio":"/source/music/4.mp3",
+        "song":"在人间",
+        "album":"有一百万个可能",
+        "singer":"大壮",
+        "islike":false
+    },
+    {
+        "image":"/source/img/4.jpg",
+        "audio":"/source/music/3.mp3",
+        "song":"烟火里的尘埃",
+        "album":"烟火",
+        "singer":"华晨宇",
+        "islike":true
+    }
+]
